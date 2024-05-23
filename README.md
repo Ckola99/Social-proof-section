@@ -65,7 +65,7 @@ body {
 
 ### Continued development
 
-I really want to improve my layout skills as this challenge really CHALLENGED me and I feel my code is still a bit janky and isn't perfect on every screen therefore I need to work on my flexbox and grid understanding and skills.
+I really want to improve my layout skills as this challenge really CHALLENGED me and I feel my code is still a bit janky and isn't perfect on every screen therefore I need to work on my flexbox and grid understanding and skills. I also want to fix my media queries so in future I would write better code to improve this project as a whole.
 
 ### Useful resources
 
